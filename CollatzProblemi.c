@@ -40,7 +40,7 @@ int main(){
  
     else{
         printf("pid %d \n", islemID);
-        printf("Child gorevin bitmesi bekleniyor.\n");
+        printf("Child gorev bekleniyor.\n");
         wait(&durum);
     }
     
